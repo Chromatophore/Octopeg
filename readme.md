@@ -2,6 +2,8 @@
 Octopeg is a submission for Octo-ber jam II: http://octojam.com/octojam-ii/games/octopeg
 It's written for Octo, a high-level assembler for Chip 8, an 8 bit assembly language from the 1970s: https://github.com/JohnEarnest/Octo
 
+(octopeg-big.gif)
+
 ## Game Readme
 OCTOPEG is a game about the destruction of pegs.
 
