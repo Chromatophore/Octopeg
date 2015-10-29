@@ -2618,7 +2618,7 @@
 	again
 
 	endgame
-	restart
+	jump restart
 ##################
 
 ## This is the stuff that runs at the end of the game. It draws the final score text, and the score itself.
